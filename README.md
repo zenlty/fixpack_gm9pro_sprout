@@ -7,7 +7,7 @@
 - Headset Audio(Dialer)
 - Internal Storage
 - Data Encrpt
-- Video button to Home Mark
+- Video button to Home
 
 # Usage
  - Download latest release zip file
