@@ -1,4 +1,5 @@
 #General Mobile GSI Rom Fix Pack
+
 #Fix Pack in :
 - Fingerprint
 - Brightness
@@ -14,7 +15,7 @@
  - Zip file send to GM9Pro
  - Install Zip file
  - Reboot Enjoy
-.
+
  ###Credits
 - General Mobile
 - MacTavishAO
