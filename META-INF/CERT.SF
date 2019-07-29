@@ -1,0 +1,16 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: DcInRQBPAefnZPut0/70Y0klzlY=
+Created-By: 1.0 (Android SignApk)
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: bvWTBaQ+YSA3FdxRFNwfOqF1oxI=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: t46510otBHw3WKwFznqfVqBpYec=
+
+Name: system/addon.d/34-camera.sh
+SHA1-Digest: YCTReRqKtRHKI/OQP4oj+4iQnTU=
+
+Name: api.sh
+SHA1-Digest: P1o55LKMq2aa6ghVSESh8SC0Xyg=
+
